@@ -22,7 +22,8 @@
         "symfony/console": "~2.7 || ~3.0",
         "php-di/php-di": "^5.1",
         "amphp/file": "^0.1.2",
-        "amphp/socket": "^0.9.6"
+        "amphp/socket": "^0.9.6",
+        "symfony/finder": "^2.7"
     },
     "require-dev": {
         "behat/behat": "~3.0",
